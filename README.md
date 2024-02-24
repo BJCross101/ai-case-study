@@ -96,51 +96,52 @@ Additional Technologies (Based on Job Postings and News Articles):
     - Although, it has made significant impact in the AI Safety and LLM field and has potential for future business implications
     - Its estimated funding to date is over $750 Million with a valuation around $5 Billion. 
 
-* What are some of the core metrics that companies in this field use to measure success? Eval in Bold (1-5: 1 = Low performing and 5 = High performing). 
-•	LLM Performance: (4)
-o	General metrics: Perplexity, BLEU/ROUGE scores, and task-specific benchmarks tailored to specific use cases (e.g., reasoning, translation).
-o	Sample quality: Human evaluation for fluency, coherence, and adherence to safety principles.
-o	Efficiency: Metrics like model size, computational cost, and inference speed.
-•	Safety and Alignment: (5)
-o	Alignment benchmarks: Measuring progress towards goals like human interpretability, controllability, and preventing harmful outputs.
-o	Expert evaluation: Assessing alignment progress through qualitative analyses and case studies.
-•	Impact and Societal Considerations: (3)
-o	User adoption and engagement: Measuring real-world use of their technologies and benefits generated.
-o	Public perception and trust: Gauging public understanding and trust in their work through surveys and engagement efforts.
-o	Ethical considerations: Evaluating potential societal impacts and actively mitigating risks like job displacement or misuse of AI
-•	Financial Sustainability: (5)
-o	Revenue generation: For non-profits like Anthropic, success might involve achieving financial stability that supports their mission.
-o	Investor confidence: Attracting funding and demonstrating responsible use of resources.
+* Core metrics in this field (1-5: 1 = Low performing and 5 = High performing). 
+
+    * LLM Performance: (4)
+        * General metrics: Perplexity, BLEU/ROUGE scores, and task-specific benchmarks tailored to specific use cases (e.g., reasoning, translation).
+        * Sample quality: Human evaluation for fluency, coherence, and adherence to safety principles.
+        * Efficiency: Metrics like model size, computational cost, and inference speed.
+    * Safety and Alignment: (5)
+        * Alignment benchmarks: Measuring progress towards goals like human interpretability, controllability, and preventing harmful outputs.
+        * Expert evaluation: Assessing alignment progress through qualitative analyses and case studies.
+    * Impact and Societal Considerations: (3)
+        * User adoption and engagement: Measuring real-world use of their technologies and benefits generated.
+        * Public perception and trust: Gauging public understanding and trust in their work through surveys and engagement efforts. 
+        * Ethical considerations: Evaluating potential societal impacts and actively mitigating risks like job displacement or misuse of AI
+    * Financial Sustainability: (5)
+        * Revenue generation: For non-profits like Anthropic, success might involve achieving financial stability that supports their mission.
+        * Investor confidence: Attracting funding and demonstrating responsible use of resources.
 
 * How is your company performing relative to competitors in the same field?
-•	Its capabilities do not seem to match those of Open AI’s Chat GPT but it did seem comparable to Gemini before its recent release that increased the number of tokens permitted during use.
-•	It does have the backing of Amazon and will undoubtedly have access to Amazon’s data sets to continue to grow its capabilities.
-o	Which it will need to stay competitive with Google, who holds essentially the world’s data through all of its platforms.
-o	As well as compete against the notoriety of Open AI and its backing with Microsoft.
+    * Its capabilities do not seem to match those of Open AI’s Chat GPT but it did seem comparable to Gemini before its recent release that increased the number of tokens permitted during use.
+    * It does have the backing of Amazon and will undoubtedly have access to Amazon’s data sets to continue to grow its capabilities.
+    * It will need utilize Amazon's datat to stay competitive with Google, who holds essentially the world’s data through all of its platforms.
+    * As well as compete against the notoriety of Open AI and its backing with Microsoft.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-•	While Google and Open AI Zig, I recommend Anthropic Zags. To try and compete with Google and the vast data they have would be an uphill battle. Let Google and Open AI have that battle as they focus on market share of subscribers.
-•	Instead focus on what Amazon does well and expand on it.
-o	Give every Amazon Plus member access to Claude Pro
-	To grow user base organically and make Claude the potential household name.
-o	Use all Logistical Data from Amazon and create a Vertical stronghold when it comes to AI Logistical prowess and execution. 
-o	Partner with the Tesla Organization and its sister companies to create autonomous vehicles that further benefit your Logistical presence and power. 
-o	Designate a team to create Agents that are proprietary to AWS that strengthen its offer and lure more enterprise users.
+* How I would recommend Anthropic strive for a competitive edge.
+    * While Google and Open AI Zig, I recommend Anthropic Zags. To try and compete with Google and the vast data they have would be an uphill battle. Let Google and Open AI have that battle as they focus on market share of subscribers.
+    * Instead focus on what Amazon does well and expand on it.
+    * Give every Amazon Plus member access to Claude Pro
+	    * This would grow user base organically and make Claude the potential household name.
+    * Use all Logistical Data from Amazon and create a Vertical stronghold when it comes to AI Logistical prowess and execution. 
+    * Partner with the Tesla Organization and its sister companies to create autonomous vehicles that further benefit your Logistical presence and power. 
+    * Designate a team to create Agents that are proprietary to AWS that strengthen its offer and lure more enterprise users.
 
-* Why do you think that offering this product or service would benefit the company?
-•	It focuses on their strengths and leverages the footholds that their main investor has in the marketplace.
-•	Increased worldwide income, which raises the tide for all ships. 
+* I believe this would be beneficial to Anthropic becuase of the following reasons.
+    * It focuses on their strengths and leverages the footholds that their main investor has in the marketplace.
+    * Increased worldwide income, which raises the tide for all ships. 
 
 * What technologies would this additional product or service utilize?
-•	The continued use and development of their LLM Claude and Data collection from all Amazon Prime users that interact with the model
-•	Complex AI Agents for their AWS.
-•	Video Data collection tech attached to all Amazon vehicles. Benefiting Tesla and Automated Vehicles partnership.
-•	Computing Chips to continue to grow computing power and usage capabilities of their services.
+    * The continued use and development of their LLM Claude and Data collection from all Amazon Prime users that interact with the model
+    * Complex AI Agents for their AWS.
+    * Video Data collection tech attached to all Amazon vehicles. Benefiting Tesla and Automated Vehicles partnership.
+    * Computing Chips to continue to grow computing power and usage capabilities of their services.
 
 * Why are these technologies appropriate for your solution?
-•	Free Claude for Amazon users would produce more use data to better help develop the LLM. (Eventually leading to more purchases)
-•	AI Agents in AWS would bring more users, in turn more data.
-•	Video Data and Driver Analytics are needed to crack autonomous driving. Tesla is the current leader. Collecting this data from their large fleet and partnering with Tesla would be a great addition.
-•	Chip Wars! To get where everyone is aiming right now with AI, we need more computing power. Anthropic needs to invest heavily to ensure they have their share of the available computing power.
+    * Free Claude for Amazon users would produce more use data to better help develop the LLM. (Eventually leading to more purchases both for Amazon Retail Services and Enterprise Services)
+    * AI Agents in AWS would bring more users, in turn more data.
+    * Video Data and Driver Analytics are needed to crack autonomous driving. Tesla is the current leader. Collecting this data from their large fleet and partnering with Tesla would be a great addition.
+    * Chip Wars! To get where everyone is aiming right now with AI, we need more computing power. Anthropic needs to invest heavily to ensure they have their share of the available computing power.
