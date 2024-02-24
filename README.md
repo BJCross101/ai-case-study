@@ -31,33 +31,63 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? Their Goal is to develop Safe and Reliable AI systems. They understand the coming wave of AI and they are trying to create a product that benefits people and prevents harm.
+* The goal of Anthropic is to develop Safe and Reliable AI systems. They understand the coming wave of AI and they are trying to create a product that benefits people and prevents harm.
 
-The main goals and problems Anthropic is trying to address are:
+* The main goals and problems Anthropic is trying to address are:
 
-Developing safe and ethical artificial intelligence systems that are highly capable but also robustly aligned with human values and interests. The key challenge is creating AI that remains reliably beneficial as it becomes more advanced and avoids negative unintended consequences.
-Making technical breakthroughs in machine learning, especially in areas like natural language processing, reasoning, multi-task learning, and open-ended learning. The aim is to create AI systems with more general and flexible intelligence that can tackle complex, open-ended tasks.
-Expanding humanity's fundamental understanding of intelligence and cognition by developing AI systems that can shed light on these deep questions through their capabilities and inner workings.
-Lowering the risks and downsides from advanced AI systems, by exploring technical and strategic solutions for robust AI alignment, transparency, interpretability, and controllability.
-So in summary, Anthropic is aiming to push forward the frontiers of capable and safe AI while addressing the big open challenges of reliably beneficial and aligned artificial intelligence. I hope this overview is helpful for your case study! Let me know if you need any clarification or have additional questions.
+    * Developing safe and ethical artificial intelligence systems that are highly capable but also robustly aligned with human values and interests. The key challenge is creating AI that remains reliably beneficial as it becomes more advanced and avoids negative unintended consequences.
+    * Making technical breakthroughs in machine learning, especially in areas like natural language processing, reasoning, multi-task learning, and open-ended learning. The aim is to create AI systems with more general and flexible intelligence that can tackle complex, open-ended tasks.
+    * Expanding humanity's fundamental understanding of intelligence and cognition by developing AI systems that can shed light on these deep questions through their capabilities and inner workings.
+    * Lowering the risks and downsides from advanced AI systems, by exploring technical and strategic solutions for robust AI alignment, transparency, interpretability, and controllability.
+    * So in summary, Anthropic is aiming to push forward the frontiers of capable and safe AI while addressing the big open challenges of reliably beneficial and aligned artificial intelligence. I hope this overview is helpful for your case study! Let me know if you need any clarification or have additional questions.
 
-* Who is the company's intended customer? Humanity as a whole. They want to create AI products that help everyone both in advancement and safety. Is there any information about the market size of this set of customers? The projected world population on Jan.1, 2024, is 8,019,876,189. https://www.commerce.gov/news/blog/2024/01/census-bureau-projects-us-and-world-populations-new-years-day#:~:text=The%20projected%20world%20population%20on,the%20U.S.%20and%20world%20populations.
+* The intended customer of Anthropic is humanity as a whole. They want to create AI products that help everyone both in advancement and safety. 
+* With the intended market being humanity as a whole you can concluded they are aiming to better [each life within the world](https://www.commerce.gov/news/blog/2024/01/census-bureau-projects-us-and-world-populations-new-years-day#:~:text=The%20projected%20world%20population%20on,the%20U.S.%20and%20world%20populations), an estimated 8 Billion lives. 
 
-* What solution does this company offer that their competitors do not or cannot offer? 1. Strong Focus on AI Alignment, 2. Multi-task, open-ended learning, 3. Transparent and interperable, 4. Constitutional AI, and 5. Engaging AI assistant. (What is the unfair advantage they utilize?) There is not a listed "unfair" advantage but as one of the leading AI companies, its relationships has allowed it to access much larger amounts of data to train their algorithms, as well as access to some of the strongest computation capabilities.
+* Their competitive differences are as follows 
+    1. Strong Focus on AI Alignment
+    2. Multi-task, open-ended learning
+    3. Transparent and interperable
+    4. Constitutional AI
+    5. Engaging AI assistant. 
 
-* Which technologies are they currently using, and how are they implementing them? LLMs. They use the internet to train their models. The number of GPUs and TPUs used to train Claude have not been disclosed. Claude 2 Model Card file:///C:/Users/bc263e/Downloads/ModelCardClaudev2_with_appendix_v1.pdf 
+* Currently there is not a listed "unfair" advantage to Anthropic but as one of the leading AI companies, its relationships has allowed it to have access to much larger amounts of data to train their algorithms, as well as access to some of the strongest computation capabilities.
+
+### Core Technologies:
+
+* Large Language Models (LLMs): Anthropic is primarily known for its LLMs, particularly "Claude" and "Instruct." These are massive neural networks trained on vast amounts of text and code, allowing them to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way (like I am doing now!).
+* Deep Learning Frameworks: TensorFlow and PyTorch are likely used to build and train these LLMs, as they are popular choices in the deep learning community.
+* Transformers: This specific neural network architecture is a cornerstone of modern LLMs, and Anthropic likely employs it for its efficiency and effectiveness.
+* Scaling Laws: Anthropic actively researches how to scale AI systems safely and efficiently. This likely involves studying the relationships between data, compute, parameters, and performance of LLMs.
+* Safety and Alignment: Anthropic places a strong emphasis on developing safe and aligned AI, meaning these AI systems should be helpful, beneficial, and not harmful. They have published research papers on this topic and likely utilize various techniques to assess and mitigate potential risks.
+
+Additional Technologies (Based on Job Postings and News Articles):
+
+* Cloud Infrastructure: Anthropic has partnered with Amazon Web Services (AWS) for their primary cloud provider. This likely includes utilizing AWS Trainium and Inferentia chips for training and deploying their LLMs.
+* Machine Learning Operations (MLOps): Efficiently managing and deploying LLMs requires robust MLOps practices. Anthropic likely uses tools and methodologies to streamline these processes.
+* Research Tools: Various research tools and libraries are likely used for data analysis, visualization, and experimentation. This could include libraries like NumPy, Pandas, and Matplotlib.
+* Systems Programming: Building and maintaining large-scale systems requires expertise in systems programming languages like C++ and Python.
+
+    * The number of GPUs and TPUs used to train Claude have not been disclosed. 
+    * [Claude 2 Model Card](file:///C:/Users/bc263e/Downloads/ModelCardClaudev2_with_appendix_v1.pdf) 
 
 ## Landscape
 
-* What field is the company in? Technology: Artificial Intelligence Research and Development
+* The sole focus for Anthropic is Technology: Artificial Intelligence Research and Development
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years? 
+* Highlights from the past 5 Years: 
+    * Open AI Chat GPT3 (Large Language Models), Generative AI
+    * President Biden's latest executive order on AI, titled "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence", it was signed on October 30, 2023. Executive orders come into effect as soon as they are signed by the President.
 
-The past 5 Years: Open AI Chat GPT3 (Large Language Models), Generative AI, and President Biden's latest executive order on AI, titled "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" was not executed, it was signed on October 30, 2023. Executive orders come into effect as soon as they are signed by the President.
+* Highlights from the past 10 Years: 
+    * Deep Reinforcement Learning Breakthroughs [(ALPHAGO)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+    * Multimodal Learning and Fusion
+    * Democratization of AI through Cloud Platforms.
 
-The past 10 Years: Deep Reinforcement Learning Breakthroughs (ALPHAGO), Multimodal Learning and Fusion, Democratization of AI through Cloud Platforms.
-
-* What are the other major companies in this field? Open AI (Chat GPT-3), Google (Gemini), Microsoft (Bing Chat, now Co-Pilot)  
+* Major companies in this field:
+    * [Open AI](https://openai.com/) (Chat GPT-3)
+    * [Google](https://gemini.google.com/app) (Gemini)
+    * [Microsoft](https://copilot.microsoft.com/) (Bing Chat, now Co-Pilot)  
 
 ## Results
 
