@@ -4,29 +4,28 @@
 
 * Anthropic
 
-* When was the company incorporated? The company was incorporated in February of 2021. 
+* The company was incorporated in February of 2021. 
 
-* Who are the founders of the company? The company was founded by Dario Amodei, Daniela Amodei, and Jack Clark. Other key figures for Anthropic are Tom Brown and Greg Bockman.
+* The company was founded by Dario Amodei, Daniela Amodei, and Jack Clark. Other key figures for Anthropic are Tom Brown and Greg Bockman.
 
-* How did the idea for the company (or project) come about? They had their beginning at Open AI. Core beliefs on the advancements of AI led the team to create Anthropic. Their belief that the AI revolution will be bigger than the industrial revolution but more dangerous. This spurred them onto forming Anthropic: https://www.anthropic.com/news/core-views-on-ai-safety
+* Anthropic had its beginning at Open AI. Their core beliefs on the advancements of AI led the team to create Anthropic. The leaders of Anthropic believe that the AI revolution will be bigger than the industrial revolution but have more underlying  dangers. This spurred them onto forming Anthropic: https://www.anthropic.com/news/core-views-on-ai-safety
 
-* How is the company funded? Investments, Subscripitions and Cloud Computing Arrangments. 
-    Investments:
-    -Major investors;
-    --Google: Invested several hundred million dollars through its AI arm, Google AI.
-    --OpenAI: Invested an undisclosed amount as part of a strategic partnership.
-    --Salesforce Ventures: Invested $100 million.
-    --Sound Ventures: Invested $100 million.
-    --Zoom Ventures: Invested $100 million.
-    --Others: Several other venture capital firms and tech companies have also invested, including SK Telecom and Meta (formerly Facebook).
+* The company is funded through Investments, Subscripitions and Cloud Computing Arrangments. 
+    * Investments:
+        * Google: Invested several hundred million dollars through its AI arm, Google AI.
+        * OpenAI: Invested an undisclosed amount as part of a strategic partnership.
+        * Salesforce Ventures: Invested $100 million.
+        * Sound Ventures: Invested $100 million.
+        * Zoom Ventures: Invested $100 million.
+        * Others: Several other venture capital firms and tech companies have also invested, including SK Telecom and Meta (formerly Facebook).
     
-    Subscriptions:
-    -Claude for Business: https://www-cdn.anthropic.com/files/4zrzovbb/website/31021aea87c30ccaecbd2e966e49a03834bfd1d2.pdf
-    -Claude Pro: $20 US per month
+    * Subscriptions:
+        * Claude for Business: https://www-cdn.anthropic.com/files/4zrzovbb/website/31021aea87c30ccaecbd2e966e49a03834bfd1d2.pdf
+        * Claude Pro: $20 US per month
    
-    Cloud Computing:
-    -Some investors, such as Microsoft and Amazon, have provided cloud computing credits to Anthropic in exchange for equity.   
-    -These credits allow Anthropic to access the computational resources needed to train and operate large language models like Claude.
+    * Cloud Computing:
+        * Some investors, such as Microsoft and Amazon, have provided cloud computing credits to Anthropic in exchange for equity.   
+        * These credits allow Anthropic to access the computational resources needed to train and operate large language models like Claude.
 
 * How much funding have they received? They have raised over $750 million across multiple funding rounds as of Dec 2023. https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html#:~:text=The%20round%20would%20value%20Anthropic,in%20the%20startup%20over%20time.
 
