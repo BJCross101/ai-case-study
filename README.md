@@ -20,14 +20,14 @@
         * Others: Several other venture capital firms and tech companies have also invested, including SK Telecom and Meta (formerly Facebook).
     
     * Subscriptions:
-        * Claude for Business: https://www-cdn.anthropic.com/files/4zrzovbb/website/31021aea87c30ccaecbd2e966e49a03834bfd1d2.pdf
+        * Claude for [Business.](https://www-cdn.anthropic.com/files/4zrzovbb/website/31021aea87c30ccaecbd2e966e49a03834bfd1d2.pdf)
         * Claude Pro: $20 US per month
    
     * Cloud Computing:
         * Some investors, such as Microsoft and Amazon, have provided cloud computing credits to Anthropic in exchange for equity.   
         * These credits allow Anthropic to access the computational resources needed to train and operate large language models like Claude.
 
-* How much funding have they received? They have raised over $750 million across multiple funding rounds as of Dec 2023. https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html#:~:text=The%20round%20would%20value%20Anthropic,in%20the%20startup%20over%20time.
+* They have raised over [$750 million](https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html#:~:text=The%20round%20would%20value%20Anthropic,in%20the%20startup%20over%20time) across multiple funding rounds as of Dec 2023.
 
 ## Business Activities
 
