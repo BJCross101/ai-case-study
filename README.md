@@ -1,6 +1,3 @@
-# ai-case-study
-SMU Boot Camp Module 1
-
 # Anthropic AI
 
 ## Overview and Origin
@@ -11,8 +8,7 @@ SMU Boot Camp Module 1
 
 * Who are the founders of the company? The company was founded by Dario Amodei, Daniela Amodei, and Jack Clark. Other key figures for Anthropic are Tom Brown and Greg Bockman.
 
-* How did the idea for the company (or project) come about? They had their beginning at Open AI. Core beliefs on the advancements of AI led the team to create Anthropic. Their belief that the AI revolution will be bigger than the industrial revolution but more dangerous. This spurred them onto forming Anthropic. 
-https://www.anthropic.com/news/core-views-on-ai-safety
+* How did the idea for the company (or project) come about? They had their beginning at Open AI. Core beliefs on the advancements of AI led the team to create Anthropic. Their belief that the AI revolution will be bigger than the industrial revolution but more dangerous. This spurred them onto forming Anthropic: https://www.anthropic.com/news/core-views-on-ai-safety
 
 * How is the company funded? Investments, Subscripitions and Cloud Computing Arrangments. 
     Investments:
