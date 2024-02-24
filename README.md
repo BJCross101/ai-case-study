@@ -8,7 +8,7 @@
 
 * The company was founded by Dario Amodei, Daniela Amodei, and Jack Clark. Other key figures for Anthropic are Tom Brown and Greg Bockman.
 
-* Anthropic had its beginning at Open AI. Their core beliefs on the advancements of AI led the team to create Anthropic. The leaders of Anthropic believe that the AI revolution will be bigger than the industrial revolution but have more underlying  dangers. This spurred them onto forming Anthropic: https://www.anthropic.com/news/core-views-on-ai-safety
+* Anthropic had its beginning at Open AI. Their core beliefs on the advancements of AI led the team to create Anthropic. The leaders of Anthropic believe that the AI revolution will be bigger than the industrial revolution but have more underlying  dangers. This understanding of the potential threats of AI spurred the formation of {Anthropic}(https://www.anthropic.com/news/core-views-on-ai-safety)
 
 * The company is funded through Investments, Subscripitions and Cloud Computing Arrangments. 
     * Investments:
