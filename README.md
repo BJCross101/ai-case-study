@@ -1,4 +1,5 @@
 # Anthropic AI
+[Anthropic](https://cdn.pulse2.com/cdn/2023/08/Anthropic.jpeg)
 
 ## Overview and Origin
 
