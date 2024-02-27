@@ -69,7 +69,7 @@ Additional Technologies (Based on Job Postings and News Articles):
 * Systems Programming: Building and maintaining large-scale systems requires expertise in systems programming languages like C++ and Python.
 
     * The number of GPUs and TPUs used to train Claude have not been disclosed. 
-    * [Claude 2 Model Card](file:///C:/Users/bc263e/Downloads/ModelCardClaudev2_with_appendix_v1.pdf) 
+    * [Claude 2 Model Card](https://www-cdn.anthropic.com/files/4zrzovbb/website/75639748080275c93d2ef9fc4239bdd111d7c234.pdf)
 
 ## Landscape
 
@@ -145,3 +145,16 @@ Additional Technologies (Based on Job Postings and News Articles):
     * AI Agents in AWS would bring more users, in turn more data.
     * Video Data and Driver Analytics are needed to crack autonomous driving. Tesla is the current leader. Collecting this data from their large fleet and partnering with Tesla would be a great addition.
     * Chip Wars! To get where everyone is aiming right now with AI, we need more computing power. Anthropic needs to invest heavily to ensure they have their share of the available computing power.
+ 
+## Resources
+
+* [Anthropic.](https://www.anthropic.com/news/core-views-on-ai-safety)
+* [Claude for Business.](https://www-cdn.anthropic.com/files/4zrzovbb/website/31021aea87c30ccaecbd2e966e49a03834bfd1d2.pdf)
+* [$750 million](https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html#:~:text=The%20round%20would%20value%20Anthropic,in%20the%20startup%20over%20time)
+* [World Populace](https://www.commerce.gov/news/blog/2024/01/census-bureau-projects-us-and-world-populations-new-years-day#:~:text=The%20projected%20world%20population%20on,the%20U.S.%20and%20world%20populations)
+* [Claude 2 Model Card](https://www-cdn.anthropic.com/files/4zrzovbb/website/75639748080275c93d2ef9fc4239bdd111d7c234.pdf)
+* [(ALPHAGO)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+* [Open AI](https://openai.com/) (Chat GPT-3)
+* [Google](https://gemini.google.com/app) (Gemini)
+* [Microsoft](https://copilot.microsoft.com/) (Bing Chat, now Co-Pilot)
+* 
